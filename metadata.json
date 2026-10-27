@@ -1,0 +1,6 @@
+{
+  "name": "RegistryPro - User Registration System",
+  "description": "Comprehensive user registration and management portal with register number, email, phone verification, ID card generator, and search dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
